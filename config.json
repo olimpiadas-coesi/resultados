@@ -1,16 +1,10 @@
 {
   "resultados": [
     {
-      "id": "canguru",
-      "nome": "Olimpíada Canguru",
+      "id": "obmep",
+      "nome": "OBMEP - 1ª FASE",
       "chave": "MATRÍCULA",
-      "destaque": ["PREMIAÇÃO", "COLOCAÇÃO"]
-    },
-    {
-      "id": "obi",
-      "nome": "Olimpíada de Informática",
-      "chave": "MATRÍCULA",
-      "destaque": ["PREMIAÇÃO", "COLOCAÇÃO"]
+      "destaque": ["PONTOS"]
     }
   ]
 }
