@@ -4,7 +4,7 @@
       "id": "obmep",
       "nome": "OBMEP - 1ª FASE",
       "chave": "MATRÍCULA",
-      "destaque": ["PONTOS"]
+      "destaque": ["POSIÇÃO", "PONTOS", "STATUS"]
     }
   ]
 }
