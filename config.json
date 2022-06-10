@@ -1,10 +1,10 @@
 {
   "resultados": [
-    {
-      "id": "obmep",
-      "nome": "OBMEP - 1ª FASE",
-      "chave": "MATRÍCULA",
-      "destaque": ["POSIÇÃO", "PONTOS", "STATUS"]
-    }
+      {
+        "id": "obmep",
+        "nome": "OBMEP - 1ª FASE",
+       "chave": "MATRÍCULA",
+        "destaque": ["POSIÇÃO"]
+     }
   ]
 }
