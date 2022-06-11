@@ -20,7 +20,14 @@
 			"nome": "CANGURU DE MATEMÁTICA",
 			"chave": "MATRÍCULA",
 			"destaque": ["- LUGAR", "- PONTOS", "- PREMIAÇÃO"]
-		}		
+		},
+
+		{
+			"id": "obi_notas",
+			"nome": "OBI - NOTAS",
+			"chave": "MATRÍCULA",
+			"destaque": ["- LUGAR", "- PONTOS (máx . 15)", "- STATUS"]
+		}	
 		
 	]
 }
