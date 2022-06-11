@@ -10,7 +10,7 @@
         "id": "oba_notas",
         "nome": "OBA - NOTAS",
         "chave": "MATRÍCULA",
-        "destaque": ["- COLOCAÇÃO", "- NOTA (máx. 10)"]
+        "destaque": ["- LUGAR", "- NOTA (máx. 10)"]
       }
   ]
 }
