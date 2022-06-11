@@ -2,6 +2,13 @@
 	"resultados": [
 		
 		{
+			"id": "canguru",
+			"nome": "CANGURU DE MATEMÁTICA",
+			"chave": "MATRÍCULA",
+			"destaque": ["- LUGAR", "- PONTOS", "- PREMIAÇÃO"]
+		},		
+		
+		{
 			"id": "obmep",
 			"nome": "OBMEP - 1ª FASE",
 			"chave": "MATRÍCULA",
@@ -13,13 +20,6 @@
 			"nome": "OBA - NOTAS",
 			"chave": "MATRÍCULA",
 			"destaque": ["- LUGAR", "- NOTA (máx. 10)"]
-		},
-		
-		{
-			"id": "canguru",
-			"nome": "CANGURU DE MATEMÁTICA",
-			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- PONTOS", "- PREMIAÇÃO"]
 		},
 
 		{
