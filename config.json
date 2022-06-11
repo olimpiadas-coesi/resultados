@@ -1,16 +1,19 @@
 {
-  "resultados": [
-      {
-        "id": "obmep",
-        "nome": "OBMEP - 1ª FASE",
-        "chave": "MATRÍCULA",
-        "destaque": ["POSIÇÃO", "PONTOS (MÁX. 20)", "STATUS"]
-      },
-      {
-        "id": "oba_notas",
-        "nome": "OBA - NOTAS",
-        "chave": "MATRÍCULA",
-        "destaque": ["- LUGAR", "- NOTA (máx. 10)"]
-      }
-  ]
+	"resultados": [
+		
+		{
+			"id": "obmep",
+			"nome": "OBMEP - 1ª FASE",
+			"chave": "MATRÍCULA",
+			"destaque": ["POSIÇÃO", "PONTOS (MÁX. 20)", "STATUS"]
+		},
+		
+		{
+			"id": "oba_notas",
+			"nome": "OBA - NOTAS",
+			"chave": "MATRÍCULA",
+			"destaque": ["- LUGAR", "- NOTA (máx. 10)"]
+		}
+		
+	]
 }
