@@ -9,10 +9,10 @@
 		},		
 		
 		{
-			"id": "obmep",
+			"id": "obmep_final",
 			"nome": "OBMEP - 1ª FASE",
 			"chave": "MATRÍCULA",
-			"destaque": ["POSIÇÃO", "PONTOS (MÁX. 20)", "STATUS"]
+			"destaque": ["- LUGAR", "- PONTOS (máx. 20)", "- STATUS"]
 		},
 		
 		{
