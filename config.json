@@ -21,6 +21,13 @@
 			"chave": "MATRÍCULA",
 			"destaque": ["- LUGAR", "- NOTA (máx. 10)"]
 		},
+		
+		{
+			"id": "obr",
+			"nome": "OBR - NOTAS",
+			"chave": "MATRÍCULA",
+			"destaque": ["- LUGAR", "- NOTA (máx. 100)", "- STATUS"]
+		},
 
 		{
 			"id": "obi_notas",
