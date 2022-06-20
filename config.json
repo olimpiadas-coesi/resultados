@@ -23,7 +23,7 @@
 		},
 		
 		{
-			"id": "obr",
+			"id": "obr_notas",
 			"nome": "OBR - NOTAS",
 			"chave": "MATRÍCULA",
 			"destaque": ["- LUGAR", "- NOTA (máx. 100)", "- STATUS"]
