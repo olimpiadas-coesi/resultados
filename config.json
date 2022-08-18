@@ -37,10 +37,10 @@
 		},
 
 		{
-			"id": "obi2",
-			"nome": "OBI (INICIAÇÃO) - CLASSIFICADOS 2ª FASE",
+			"id": "obi_fase2",
+			"nome": "OBI (INICIAÇÃO) - RESULTADOS 2ª FASE",
 			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- PONTOS (máx . 15)", "- STATUS"]
+			"destaque": ["- PONTOS (máx . 20)", "- STATUS"]
 		}	
 		
 	]
