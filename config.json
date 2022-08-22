@@ -23,13 +23,6 @@
 		},
 		
 		{
-			"id": "obr_notas",
-			"nome": "OBR - NOTAS",
-			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- NOTA (máx. 100)", "- STATUS"]
-		},
-
-		{
 			"id": "obi_p_fase1",
 			"nome": "OBI (PROGRAMAÇÃO) - 1ª FASE",
 			"chave": "MATRÍCULA",
