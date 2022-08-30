@@ -40,7 +40,7 @@
 			"id": "onc_fase1",
 			"nome": "ONC - 1ª FASE",
 			"chave": "MATRÍCULA",
-			"destaque": ["- PONTOS:", "- CLASSIFICAÇÃO:"]
+			"destaque": ["- PONTOS", "- CLASSIFICAÇÃO"]
 		}
 		
 	]
