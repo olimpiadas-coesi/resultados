@@ -30,8 +30,8 @@
 		},
 
 		{
-			"id": "obi_fase2",
-			"nome": "OBI (INICIAÇÃO) - NOTAS 2ª FASE",
+			"id": "obi_iniciacao_fase2",
+			"nome": "OBI (INICIAÇÃO) - CLASSIFICAÇÃO 2ª FASE",
 			"chave": "MATRÍCULA",
 			"destaque": ["- PONTOS (máx . 20)", "- STATUS"]
 		},
