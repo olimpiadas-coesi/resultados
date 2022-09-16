@@ -48,6 +48,13 @@
 			"nome": "OBR - NÍVEL 2, 3 e 4",
 			"chave": "MATRÍCULA",
 			"destaque": ["- PONTOS", "- MAIOR PONTUAÇÃO DO NÍVEL"]
+		},
+		
+		{
+			"id": "obrl_fase1",
+			"nome": "OBRL",
+			"chave": "MATRÍCULA",
+			"destaque": ["- PONTOS", "- STATUS"]
 		}
 		
 	]
