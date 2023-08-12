@@ -1,12 +1,5 @@
 {
-	"resultados": [
-		{
-			"id": "obi2023",
-			"nome": "OBI TESTE 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- NOME", "- PONTOS"]
-		},
-		
+	"resultados": [		
 		{
 			"id": "canguru",
 			"nome": "CANGURU DE MATEMÁTICA",
