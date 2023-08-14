@@ -1,27 +1,7 @@
 {
 	"resultados": [	
 
-		{
-			"id": "OAB",
-			"nome": "OAB",
-			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- PONTOS", "- PREMIAÇÃO"]
-		},
-
-
-
-
-
-		
-		{
-			"id": "ADMINISTRATIVO",
-			"nome": "ADMINISTRATIVO",
-			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- PONTOS", "- PREMIAÇÃO"]
-		},
-
-
-	
+			
 		{
 			"id": "canguru",
 			"nome": "CANGURU DE MATEMÁTICA",
