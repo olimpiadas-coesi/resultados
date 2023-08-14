@@ -1,5 +1,15 @@
 {
-	"resultados": [		
+	"resultados": [	
+
+		{
+			"id": "ADMINISTRATIVO",
+			"nome": "ADMINISTRATIVO",
+			"chave": "MATRÍCULA",
+			"destaque": ["- LUGAR", "- PONTOS", "- PREMIAÇÃO"]
+		},
+
+
+	
 		{
 			"id": "canguru",
 			"nome": "CANGURU DE MATEMÁTICA",
