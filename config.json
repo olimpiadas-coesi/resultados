@@ -17,8 +17,8 @@
 		},
 		
 		{
-			"id": "oba_notas",
-			"nome": "OBA - NOTAS",
+			"id": "oba",
+			"nome": "OBA",
 			"chave": "MATRÍCULA",
 			"destaque": ["- LUGAR", "- NOTA (máx. 10)"]
 		},
