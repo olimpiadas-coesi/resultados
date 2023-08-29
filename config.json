@@ -24,10 +24,10 @@
 		},
 		
 		{
-			"id": "obi_p_fase1",
+			"id": "obi_pro",
 			"nome": "OBI (PROGRAMAÇÃO) - 1ª FASE",
 			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- PONTOS", "- STATUS"]
+			"destaque": ["- MODALIDADE", "- PONTUAÇÃO", "- CLASSIFICAÇÃO"]
 		},
 
 		{
