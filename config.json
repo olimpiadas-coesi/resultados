@@ -38,6 +38,16 @@
 			"destaque": ["- MODALIDADE", "- PONTUAÇÃO", "- CLASSIFICAÇÃO"]
 		},
 
+
+		{
+			"id": "mobfog",
+			"nome": "MOBFOG",
+			"chave": "MATRÍCULA",
+			"destaque": ["- NÍVEL", "- PREMIAÇÃO"]
+			
+		},
+
+		
 		{
 			"id": "obi_iniciacao_fase2",
 			"nome": "OBI (INICIAÇÃO) - CLASSIFICAÇÃO 2ª FASE",
