@@ -47,6 +47,15 @@
 			
 		},
 
+
+		{
+			"id": "obm",
+			"nome": "OBM",
+			"chave": "MATRÍCULA",
+			"destaque": ["- NÍVEL", "- PREMIAÇÃO"]
+			
+		},
+
 		
 		{
 			"id": "obi_iniciacao_fase2",
