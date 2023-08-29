@@ -18,10 +18,10 @@
 		},		
 		
 		{
-			"id": "obmep_final",
+			"id": "obmep_1",
 			"nome": "OBMEP - 1ª FASE",
 			"chave": "MATRÍCULA",
-			"destaque": ["- LUGAR", "- PONTOS (máx. 20)", "- STATUS"]
+			"destaque": ["- CLASSIFICAÇÃO"]
 		},
 		
 		{
