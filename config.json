@@ -3,10 +3,10 @@
 
 			
 		{
-			"id": "canguru",
-			"nome": "CANGURU",
+			"id": "canguru_2_semestre",
+			"nome": "CANGURU - 2º SEMESTRE",
 			"chave": "MATRÍCULA",
-			"destaque": ["- NÍVEL", "- PONTUAÇÃO", "- PREMIAÇÃO"]
+			"destaque": ["- NÍVEL", "- PONTUAÇÃO"]
 		},		
 		
 		{
