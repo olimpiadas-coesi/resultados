@@ -6,6 +6,12 @@
 			"chave":"MATRÍCULA",
 			"destaque":["- PONTUAÇÃO","- PREMIAÇÃO"]
 		},
+		{
+			"id":"canguru2024",
+			"nome":"Olimpíada Canguru",
+			"chave":"MATRÍCULA",
+			"destaque":["- PONTUAÇÃO","- CLASSIFICAÇÃO"]
+		},
 
 		{
 			"id": "teste2024",
