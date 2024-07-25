@@ -1,6 +1,12 @@
 {
 	"resultados": [	
 		{
+			"id":"OBRAA-NIVEL-2",
+			"nome":"OBA – 2024 – 2º SEMESTRE",
+			"chave":"MATRÍCULA",
+			"destaque":["- PONTUAÇÃO","- MEDALHA"]
+		},
+		{
 			"id":"Canguru-2024-2",
 			"nome":"OLIMPÍADA CANGURU – 2024 – 2º SEMESTRE",
 			"chave":"MATRÍCULA",
