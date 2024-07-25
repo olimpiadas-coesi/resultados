@@ -1,6 +1,12 @@
 {
 	"resultados": [	
 		{
+			"id":"2 can",
+			"nome":"OLIMPÍADA CANGURU – 2024 – 2º SEMESTRE",
+			"chave":"MATRÍCULA",
+			"destaque":["- PONTUAÇÃO","- MEDALHA"]
+		},
+		{
 			"id":"obb2024-2",
 			"nome":"OBB - 2024",
 			"chave":"MATRÍCULA",
