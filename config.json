@@ -1,6 +1,12 @@
 {
 	"resultados": [	
 		{
+			"id":"canguru2025",
+			"nome":"Canguru 2025",
+			"chave":"MATRÍCULA",
+			"destaque":["- PONTUAÇÃO"]
+		},
+		{
 			"id":"OBA-NIVEL-2-2024",
 			"nome":"OBA – 2024 – 2º SEMESTRE - NÍVEL 2",
 			"chave":"MATRÍCULA",
