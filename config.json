@@ -2,7 +2,7 @@
 	"resultados": [	
 		{
 			"id":"OMP2026",
-			"nome":"OMP - 1ª fase",
+			"nome":"OMP 2026 - 1ª fase",
 			"chave":"Matrícula",
 			"destaque":["- Pontuação","- Colocação","- Classificado para 2ª fase"]
 		},
@@ -25,100 +25,14 @@
 			"chave":"MATRÍCULA",
 			"destaque":["- PONTUAÇÃO","- MEDALHA"]
 		},
-		{
-			"id":"obb2024-2",
-			"nome":"OBB - 2024",
-			"chave":"MATRÍCULA",
-			"destaque":["- PONTUAÇÃO","- PREMIAÇÃO"]
-		},
-		{
-			"id":"canguru2024",
-			"nome":"OlIMPÍADA CANGURU - 2024",
-			"chave":"MATRÍCULA",
-			"destaque":["- PONTUAÇÃO","- CLASSIFICAÇÃO"]
-		},
+		
+		
+		
+
 
 		
 		{
-			"id": "obr_niv_5",
-			"nome": "OBR - NÍVEL 5 -2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- PONTUAÇÃO"]
-		},	
 			
-		{
-			"id": "canguru_2_semestre",
-			"nome": "CANGURU - 2º SEMESTRE - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- NÍVEL", "- PONTUAÇÃO"]
-		},		
-		
-		{
-			"id": "obmep_1",
-			"nome": "OBMEP - 1ª FASE - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- CLASSIFICAÇÃO"]
-		},
-		
-		{
-			"id": "oba",
-			"nome": "OBA - 2º SEMESTRE - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- NÍVEL", "- PONTUAÇÃO"]
-		},
-		
-		{
-			"id": "obi_pro",
-			"nome": "OBI (PROGRAMAÇÃO) - 1ª FASE - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- MODALIDADE", "- PONTUAÇÃO", "- CLASSIFICAÇÃO"]
-		},
-
-
-		{
-			"id": "mobfog",
-			"nome": "MOBFOG - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- NÍVEL", "- PREMIAÇÃO"]
-			
-		},
-
-
-		{
-			"id": "obm",
-			"nome": "OBM - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- NÍVEL", "- PREMIAÇÃO"]
-			
-		},
-
-		
-		{
-			"id": "obi_iniciacao_fase2",
-			"nome": "OBI (INICIAÇÃO) - CLASSIFICAÇÃO 2ª FASE - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- PONTOS (máx . 20)", "- STATUS"]
-		},
-		
-		{
-			"id": "onc_fase1",
-			"nome": "ONC - 1ª FASE - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- PONTOS", "- CLASSIFICAÇÃO"]
-		},
-		
-		{
-			"id": "obr_n2,3,4",
-			"nome": "OBR - NÍVEL 2, 3 e 4 - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- PONTOS", "- MAIOR PONTUAÇÃO DO NÍVEL"]
-		},
-		
-		{
-			"id": "obrl_fase1",
-			"nome": "OBRL - 2023",
-			"chave": "MATRÍCULA",
-			"destaque": ["- PONTOS", "- STATUS"]
 		}
 		
 	]
