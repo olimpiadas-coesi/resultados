@@ -1,6 +1,13 @@
 {
 	"resultados": [	
 		{
+			"id":"OMP2026",
+			"nome":"OMP - 1ª fase",
+			"chave":"Matrícula",
+			"destaque":["- Pontuação","- Colocação","- Classificado para 2ª fase"]
+		},
+		
+		{
 			"id":"canguru2025",
 			"nome":"Canguru 2025",
 			"chave":"MATRÍCULA",
