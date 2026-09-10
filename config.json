@@ -2,8 +2,8 @@
 	
 	"resultados": [	
 		{
-			"id":"OBA",
-			"nome":"OBA 2026",
+			"id":"Teste",
+			"nome":"Teste",
 			"chave":"MATRICULA",
 			"destaque":["- Aluno","- Resultado:"]
 		},
