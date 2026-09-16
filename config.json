@@ -9,6 +9,13 @@
 		},
 		
 		{
+			"id":"OBBIOTEC 2026",
+			"nome":"OBBIOTEC 2026",
+			"chave":"MATRÍCULA",
+			"destaque":["- NOME","- PREMIAÇÃO"]
+		},
+			
+		{
 			"id":"JACOB PALIS JR 2026",
 			"nome":"JACOB PALIS JR 2026",
 			"chave":"MATRÍCULA",
@@ -23,13 +30,6 @@
 		},
 		
 		{
-			"id":"obbiotec",
-			"nome":"OBBiotec 2026",
-			"chave":"Matrícula",
-			"destaque":["- Aluno","- Resultado"]
-		},
-		
-			{
 			"id":"canguru",
 			"nome":"Canguru 2026",
 			"chave":"Matrícula",
