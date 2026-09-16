@@ -5,7 +5,7 @@
 			"id":"OBMEP_CLASS_2FASE",
 			"nome":"OBMEP 2026 - Classificação  2ª fase",
 			"chave":"MATRÍCULA",
-			"destaque":["- NOME","- NÍVEL", "- SALA DE PROVA 2ª FASE"]
+			"destaque":["- NOME", "- SALA DE PROVA 2ª FASE"]
 		},
 		
 		{
