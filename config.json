@@ -1,8 +1,9 @@
 {
 	
 	"resultados": [	
-				{
-			"id":"OBMEP_MIRIM_CLASS_ 2026",
+		
+		{
+			"id":"OBMEP_MIRIM_CLASS_2026",
 			"nome":"OBMEP MIRIM 2026 CLASSIFICAÇÃO 2ª FASE",
 			"chave":"MATRÍCULA",
 			"destaque":["- NOME", "- RESULTADO"]
