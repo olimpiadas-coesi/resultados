@@ -2,6 +2,13 @@
 	
 	"resultados": [	
 		{
+			"id":"JACOB PALIS JR 2026",
+			"nome":"JACOB PALIS JR 2026",
+			"chave":"MATRÍCULA",
+			"destaque":["- NOME","- PREMIAÇÃO"]
+		},
+		
+		{
 			"id":"OSEQUIM_2026",
 			"nome":"OSEQUIM 2026",
 			"chave":"MATRÍCULA",
@@ -12,7 +19,7 @@
 			"id":"obbiotec",
 			"nome":"OBBiotec 2026",
 			"chave":"Matrícula",
-			"destaque":["- Aluno","- Resultado:"]
+			"destaque":["- Aluno","- Resultado"]
 		},
 		
 			{
