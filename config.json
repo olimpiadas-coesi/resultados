@@ -1,9 +1,16 @@
 {
 	
 	"resultados": [	
+		
+		{
+			"id":"OBMEP_MIRIM_CLASS_ 2026",
+			"nome":"OBMEP MIRIM 2026 CLASSIFICAÇÃO 2ª FASE",
+			"chave":"MATRÍCULA",
+			"destaque":["- NOME", "- RESULTADO"]
+		}
 		{
 			"id":"OBMEP_CLASS_2FASE",
-			"nome":"OBMEP 2026 - Classificação  2ª fase",
+			"nome":"OBMEP 2026 CLASSIFICAÇÃO 2ª FASE",
 			"chave":"MATRÍCULA",
 			"destaque":["- NOME", "- SALA DE PROVA 2ª FASE"]
 		},
